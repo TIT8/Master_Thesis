@@ -9,4 +9,10 @@ ShowBreadCrumbs: false
 weight: 2
 ---
 
-# Mio
+# Mio [^1]
+
+lorem ipsum
+
+sono penso
+
+[^1]: primo
