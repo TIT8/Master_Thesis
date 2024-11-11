@@ -17,4 +17,4 @@ I'm nearing the end of my university journey, aiming to complete my master's deg
 
 Since this is my first time living abroad 🌍, many posts here will also reflect my experiences learning the language and exploring the culture in the Czech Republic.
 
-So come on 💪 and thanks for reading 🥰.
+Feel free to comment on my posts or reaching me out via one of the links you find in the [home page]({{<ref "/">}}). So come on 💪 and thanks for reading 🥰.
