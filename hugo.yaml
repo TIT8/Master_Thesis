@@ -1,4 +1,4 @@
-baseURL: https://thesis-master.netlify.app/
+baseURL: /
 languageCode: en-us
 title: My Master Thesis
 theme: ["PaperMod"]
@@ -70,7 +70,7 @@ params:
 
   defaultTheme: auto
   # disableThemeToggle: true
-  ShowShareButtons: true
+  ShowShareButtons: ["linkedin", "telegram", "whatsapp", "twitter", "facebook"]
   ShowReadingTime: true
   # disableSpecial1stPost: true
   displayFullLangName: true
