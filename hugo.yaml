@@ -32,7 +32,7 @@ languages:
         - name: Tags
           url: tags/
           weight: 11
-        - name: Politecnico di Milano
+        - name: Polimi
           url: https://www.polimi.it/en/
           weight: 12
         - name: Allegro Microsystems
@@ -44,18 +44,20 @@ languages:
     params:
       languageAltTitle: English
       profileMode:
-        enabled: false
-        title: PaperMod
-        imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
-        imageTitle: ProfileMode image
-        # imageWidth: 120
-        # imageHeight: 120
-        subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+        enabled: true
+        title: Master thesis on analog IC design 📜
+        imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fd_200d_1f393.svg"
+        imageTitle: Image
+        imageWidth: 120
+        imageHeight: 120
+        subtitle: "👋 Hello and welcome! I'm Lorenzo and I'm an electronic engineer. \   
+
+          Here you find progress and insights about my Master thesis in Allegro Microsystems, valid for the M.Sc. in electronic engineering at Politecnico di Milano 🎓"
         buttons:
-          - name: Blog
+          - name: Thesis progress
             url: posts
-          - name: Profile Mode
-            url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+          - name: About me
+            url: about
 
 outputs:
   home:
@@ -65,7 +67,7 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Website hosting my progress on Master Thesis"
-  author: Lorenzo Perlo
+  # author: Lorenzo Perlo
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
@@ -81,7 +83,7 @@ params:
   ShowAllPagesInArchive: true
   ShowPageNums: true
   ShowToc: true
-  # comments: false
+  comments: true
   # images: ["images/papermod-cover.png"]
 
   profileMode:
@@ -104,9 +106,7 @@ params:
       
       - I'm Lorenzo, 25 years old (as of 2024) and italian 👻   
 
-      - Here you find inisghts and progresses of my Master thesis in Allegro Microsystems valid for the MSC in electronic engineering at Milan Polytechnic 🎓
-
-      - If you find errors or want to get in touch with me, just use the links below!
+      - Here you find inisghts and progresses of my Master thesis in Allegro Microsystems valid for the M.Sc. in electronic engineering at Milan Polytechnic 🎓
 
   socialIcons:
     - name: github
@@ -137,7 +137,7 @@ params:
 
   assets:
     disableHLJS: true
-  #     favicon: "<link / abs url>"
+    favicon: "/favicon.svg"
   #     favicon16x16: "<link / abs url>"
   #     favicon32x32: "<link / abs url>"
   #     apple_touch_icon: "<link / abs url>"
