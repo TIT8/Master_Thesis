@@ -11,7 +11,7 @@ weight: 2
 
 # School/University World
 
-Like every student, I’ve studied useful things, and I’m lucky for that.
+Like every student, I've studied useful things, and I'm lucky for that.
 
 # The First WOW! 😮
 
@@ -21,25 +21,26 @@ It all started with [Arduino](https://www.arduino.cc/), then moved on to other m
 
 Then came the waterfall of knowledge: everything became so fast and exciting. Now I know pieces of biology, photonics, silicon, chemistry, medicine, math, and more, fragments of nature and the universe that are a part of me or, rather, that define me.
 
-But knowledge alone isn’t enough. I needed real-world practice. And here, my father came in: he probably doesn’t realize how much he’s impacted me, just like Politecnico. Working for him, using his resources, and learning without bearing the full responsibility for my mistakes allowed me to grow in the right direction (or maybe better, in the direction that’s most interesting to me).
+But knowledge alone isn't enough. I needed real-world practice. And here, my father came in: he probably doesn't realize how much he's impacted me, just like Politecnico. Working for him, using his resources, and learning without bearing the full responsibility for my mistakes allowed me to grow in the right direction (or maybe better, in the direction that’s most interesting to me).
 
-# Hello, Mistakes – Please Come In!
+# Hello, Mistakes, Please Come In!
 
-You study a lot, but without making mistakes in exercises or projects, you don’t truly own that knowledge. You might think you do, thanks to the degree hanging on your bedroom wall, but without real-world errors, you’re only halfway there, and you’re missing out on the most fun and rewarding part.
+You study a lot, but without making mistakes in exercises or projects, you don't truly own that knowledge. You might think you do, thanks to the degree hanging on your bedroom wall, but without real-world errors, you’re only halfway there, and you’re missing out on the most fun and rewarding part.
 
-Mistakes also teach you in sports, in love, and in life to adapt, face challenges, and enjoy what you’re doing. Even your body makes mistakes, very few among billions of cells, but year after year, we’re all moving closer to death 👻. So why not enjoy life to the fullest? Make mistakes and know you’re doing something meaningful! Otherwise you die at 50% 😩.
+Mistakes also teach you in sports, in love, and in life to adapt, face challenges, and enjoy what you're doing. Even your body makes mistakes, very few among billions of cells, but year after year, we’re all moving closer to death 👻. So why not enjoy life to the fullest? Make mistakes and know you’re doing something meaningful! Otherwise you die at 50% 😩.
 
-# First Homemade Project
+# First Homemade Projects
 
 There are projects for all tastes, from AI to simple network communication, from simple ligth on/off to REST API. My [GitHub profile](https://github.com/TIT8) is probably tired of seeing me make endless commits just to tweak something even more trivial.
 
 # First Real-World Project
 
-And yes — even more mistakes 🤬!  
+And yes, even more mistakes 🤬!  
 
 My first project, after all the foundational theory from university classes, was a solenoid driver. You can find an explanation in Italian [here](https://tit8.github.io/Trevi.pdf). This project was full of "firsts" for me:
 - First PCB design
 - First oscilloscope measurement
 - First “Oh no! The ground potential of the gate driver is different from the ground of the input signal; how can it read signals with all that noise?!”
 - First experience with hardware debugging
+- First time learning the practical use of differential signals in a noisy environment
 - First solution that [actually worked](https://www.youtube.com/shorts/-YOWk_cKE1k)
