@@ -111,7 +111,7 @@ params:
   socialIcons:
     - name: github
       title: View Source on Github
-      url: "https://github.com/TIT8/Master_Thesis"
+      url: "https://github.com/TIT8"
     - name: linkedin
       title: My Linkedin
       url: "https://www.linkedin.com/in/lorenzo-p-38817116a/"
