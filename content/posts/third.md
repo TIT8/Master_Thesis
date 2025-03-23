@@ -53,7 +53,7 @@ It’s clear that if the magnetic field changes direction, $V_{H}$ will reverse 
 - **Signal-to-noise ratio**: If you didn’t notice, the signal-to-noise ratio is an important issue.
     &nbsp;
 
-    $$ V_{H} = S_{v} \times B_{\bot} \times V_{s} $$
+    $$ V_{H} = S_{v} \cdot B_{\bot} \cdot V_{s} $$
 
     &nbsp; (where $S_{v} = 0.04 - 0.08 T^{-4}$, sensitivity per unit voltage)
 
